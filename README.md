@@ -8,7 +8,7 @@ Fork this repository and clone your newly created repository. At the end of one 
 
 ## Setup
 
-- Perform the usual setup steps after cloning a Rails application (`bundle`, `rake db:{drop,create,migrate,seed}` etc)
+- Perform the usual setup steps after cloning a Rails application (`bundle install`, `bundle update`, `rake db:{drop,create,migrate}` etc)
 
 ## Requirements
 
